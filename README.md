@@ -1,4 +1,4 @@
 # first-project
 Author - Komalpreet Kaur
-<br></br>
+<br>
 This is my first project
